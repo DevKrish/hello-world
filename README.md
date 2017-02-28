@@ -1,2 +1,2 @@
 # hello-world
-My first repository
+Hi, this is my first repository. i like working on Microsoft stack.
